@@ -1,0 +1,22 @@
+{
+  "movie_count_parsed": 2000,
+  "detail_pages_generated": 2000,
+  "category_pages_generated": 10,
+  "html_pages_generated": 2014,
+  "category_distribution": {
+    "精选推荐": 200,
+    "国产热映": 200,
+    "高清电影": 200,
+    "热门剧集": 200,
+    "悬疑犯罪": 200,
+    "动作冒险": 200,
+    "爱情喜剧": 200,
+    "科幻奇幻": 200,
+    "剧情传记": 200,
+    "海外佳作": 200
+  },
+  "video_urls_found_in_original_js": 150,
+  "unique_video_urls_found_in_original_js": 20,
+  "baidu_script_html_pages": 2014,
+  "jpg_files_in_zip": 0
+}
